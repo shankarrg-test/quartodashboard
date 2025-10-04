@@ -1,7 +1,10 @@
 ---
 title: "Palmer Penguins"
 author: "Cobblepot Analytics"
-format: dashboard
+format: 
+  dashboard:
+    self-contained: true
+    embed-resources: true
 execute: 
   echo: false
 ---
